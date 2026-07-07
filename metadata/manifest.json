@@ -1,0 +1,169 @@
+[
+  {
+    "dataset_id": "1",
+    "dataset_name": "导诊",
+    "file": "data/tables/1.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "综合医院科室科室",
+      "妇产",
+      "儿童",
+      "肿瘤",
+      "中医",
+      "精神"
+    ],
+    "source_file": "20260407-DS7#数据集-386_审改删_264.xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "07"
+  },
+  {
+    "dataset_id": "2",
+    "dataset_name": "个性化康复指导",
+    "file": "data/tables/2.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "骨科康复",
+      "神经康复",
+      "疼痛康复",
+      "儿童康复",
+      "产后康复",
+      "心肺康复",
+      "老年康复",
+      "重症康复"
+    ],
+    "source_file": "0318-DS09#数据集(500).xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "09"
+  },
+  {
+    "dataset_id": "3",
+    "dataset_name": "个性化用药指导",
+    "file": "data/tables/3.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "呼吸",
+      "循环",
+      "消化",
+      "泌尿",
+      "神经",
+      "内分泌与代谢",
+      "生殖",
+      "运动",
+      "免疫",
+      "血液"
+    ],
+    "source_file": "0313-10#数据集1(500).xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "10"
+  },
+  {
+    "dataset_id": "4",
+    "dataset_name": "心理健康咨询",
+    "file": "data/tables/4.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "常见心理问题咨询（情绪调节、人际关系困扰、学业 / 职业焦虑等）",
+      "特殊人群心理咨询（青少年、孕产妇、老年人、残障人士等）",
+      "心理危机风险干预（自伤 / 自杀倾向、严重抑郁 / 焦虑等给出干预措施）",
+      "跨场景心理需求（突发事件（如亲人离世、失业）",
+      "慢性心理问题（如长期自卑、社交恐惧）"
+    ],
+    "source_file": "0411-11#数据集-153.xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "11"
+  },
+  {
+    "dataset_id": "5",
+    "dataset_name": "辅助诊断-进阶",
+    "file": "data/tables/5.xlsx",
+    "sample_count": 100,
+    "question_form": "多选题",
+    "categories": [
+      "呼吸",
+      "循环",
+      "消化",
+      "泌尿",
+      "神经",
+      "内分泌与代谢",
+      "生殖",
+      "运动",
+      "免疫",
+      "血液"
+    ],
+    "source_file": "0419-15#数据集-204.xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "15"
+  },
+  {
+    "dataset_id": "6",
+    "dataset_name": "临床诊疗方案",
+    "file": "data/tables/6.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "常见慢性病",
+      "罕见病"
+    ],
+    "source_file": "0331-16#数据集(161).xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "16"
+  },
+  {
+    "dataset_id": "7",
+    "dataset_name": "病情分析",
+    "file": "data/tables/7.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [],
+    "source_file": "0513-18#数据集-500_4.xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "18"
+  },
+  {
+    "dataset_id": "8",
+    "dataset_name": "鉴别诊断",
+    "file": "data/tables/8.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "基础常见病",
+      "慢性病"
+    ],
+    "source_file": "合格交付-20-鉴别诊断-二终审修改版.xlsx",
+    "source_sheet_strategy": "first 100 records across official data sheets",
+    "original_dataset_id": "20"
+  },
+  {
+    "dataset_id": "9",
+    "dataset_name": "诊疗处置建议",
+    "file": "data/tables/9.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "基础常见病",
+      "慢性病"
+    ],
+    "source_file": "0411-21#数据集-275.xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "21"
+  },
+  {
+    "dataset_id": "10",
+    "dataset_name": "病历文本结构化",
+    "file": "data/tables/10.xlsx",
+    "sample_count": 100,
+    "question_form": "问答题",
+    "categories": [
+      "住院病历",
+      "门诊病历",
+      "急诊病历"
+    ],
+    "source_file": "0324-DS24#数据集(312)-.xlsx",
+    "source_sheet_strategy": "first official data sheet",
+    "original_dataset_id": "24"
+  }
+]

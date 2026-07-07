@@ -1,0 +1,20 @@
+{
+  "dataset_title": "?????????",
+  "total_tables": 10,
+  "total_records": 1000,
+  "record_limit_per_table": 100,
+  "dataset_ids": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "renumbering_note": "?????????? 1-10?original_dataset_id ?????????????",
+  "dataset_slug": "medical-model-evaluation-benchmark"
+}

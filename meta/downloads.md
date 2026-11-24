@@ -1,0 +1,15 @@
+# 数据文件下载
+
+- [data/tables/1.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/1.xlsx)
+- [data/tables/10.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/10.xlsx)
+- [data/tables/2.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/2.xlsx)
+- [data/tables/3.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/3.xlsx)
+- [data/tables/4.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/4.xlsx)
+- [data/tables/5.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/5.xlsx)
+- [data/tables/6.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/6.xlsx)
+- [data/tables/7.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/7.xlsx)
+- [data/tables/8.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/8.xlsx)
+- [data/tables/9.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/data/tables/9.xlsx)
+- [metadata/dataset_description.xlsx](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/metadata/dataset_description.xlsx)
+- [metadata/dataset_summary.json](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/metadata/dataset_summary.json)
+- [metadata/manifest.json](https://github.com/lengfeng650-star/medical-model-evaluation-benchmark/raw/refs/heads/main/metadata/manifest.json)
